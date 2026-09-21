@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: crypto-vault-cli
+Version: 0.1.0
+Summary: Outil CLI de chiffrement hybride AES-256 + RSA-2048
+Requires-Python: >=3.10
+Requires-Dist: cryptography
+Requires-Dist: rich

@@ -1,0 +1,12 @@
+pyproject.toml
+src/crypto_vault/__init__.py
+src/crypto_vault/cli.py
+src/crypto_vault/crypto.py
+src/crypto_vault/main.py
+src/crypto_vault_cli.egg-info/PKG-INFO
+src/crypto_vault_cli.egg-info/SOURCES.txt
+src/crypto_vault_cli.egg-info/dependency_links.txt
+src/crypto_vault_cli.egg-info/entry_points.txt
+src/crypto_vault_cli.egg-info/requires.txt
+src/crypto_vault_cli.egg-info/top_level.txt
+tests/test_crypto.py
