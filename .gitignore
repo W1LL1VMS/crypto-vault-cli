@@ -1,0 +1,9 @@
+venv/
+keys/
+*.pem
+*.key
+__pycache__/
+*.pyc
+tests/tmp/
+.DS_Store
+Thumbs.db
